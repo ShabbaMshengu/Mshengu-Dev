@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "kernelspec": {
+            "name": "python3",
+            "display_name": "Python 3 (ipykernel)",
+            "language": "python"
+        },
+        "language_info": {
+            "name": "python",
+            "version": "3.8.10",
+            "mimetype": "text/x-python",
+            "codemirror_mode": {
+                "name": "ipython",
+                "version": 3
+            },
+            "pygments_lexer": "ipython3",
+            "nbconvert_exporter": "python",
+            "file_extension": ".py"
+        }
+    },
+    "nbformat_minor": 2,
+    "nbformat": 4,
+    "cells": [
+        {
+            "cell_type": "code",
+            "source": [
+                "## Creating a SQL connection to ingest my tables in SQL db, Mshengu Repository ## \r\n",
+                "print ('Conplete') "
+            ],
+            "metadata": {
+                "azdata_cell_guid": "0331b5a4-e790-4ab1-8205-09e71ac07a42",
+                "language": "python",
+                "tags": []
+            },
+            "outputs": [
+                {
+                    "output_type": "stream",
+                    "name": "stdout",
+                    "text": "Conplete\n"
+                }
+            ],
+            "execution_count": 2
+        }
+    ]
+}
